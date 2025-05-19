@@ -33,9 +33,4 @@ Used to dynamically add features like sweetness type, number of sugar spoons, an
 
 ---
 
-## 🛠️ How to Run
 
-1. **Clone the repository** or copy the code into your Java project.
-2. Compile the code:
-   ```bash
-   javac BuilderPatternDemo.java
